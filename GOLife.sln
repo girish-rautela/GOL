@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GOLife", "GOLife\GOLife.csproj", "{23D8024E-65EA-4175-91F5-AB9C4673BDCB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GOLib", "GOLib\GOLib.csproj", "{7818EAD3-5C9C-4A0C-B4C3-DA5CFB77594B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GOUnitTests", "GOUnitTests\GOUnitTests.csproj", "{F7D5CD7F-2D3D-40A8-A65C-82F099B16A97}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23D8024E-65EA-4175-91F5-AB9C4673BDCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23D8024E-65EA-4175-91F5-AB9C4673BDCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23D8024E-65EA-4175-91F5-AB9C4673BDCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23D8024E-65EA-4175-91F5-AB9C4673BDCB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7818EAD3-5C9C-4A0C-B4C3-DA5CFB77594B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7818EAD3-5C9C-4A0C-B4C3-DA5CFB77594B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7818EAD3-5C9C-4A0C-B4C3-DA5CFB77594B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7818EAD3-5C9C-4A0C-B4C3-DA5CFB77594B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7D5CD7F-2D3D-40A8-A65C-82F099B16A97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7D5CD7F-2D3D-40A8-A65C-82F099B16A97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7D5CD7F-2D3D-40A8-A65C-82F099B16A97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7D5CD7F-2D3D-40A8-A65C-82F099B16A97}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
